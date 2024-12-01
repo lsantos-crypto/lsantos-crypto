@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lsantos-crypto
-- 👀 I’m interested in ...Entry level Linux command line
+- 👀 I’m interested in ...VM Provision, Automation, Sustem Managemnt
 - 🌱 I’m currently learning ...Same
 - 💞️ I’m looking to collaborate on ...this does not apply right now.
 - 📫 How to reach me ...
